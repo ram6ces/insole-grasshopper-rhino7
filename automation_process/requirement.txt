@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+uuid
+opencv-python
+pillow
+python-multipart
+traceback
